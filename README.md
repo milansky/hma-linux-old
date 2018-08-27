@@ -21,5 +21,6 @@ These are the HMA! Pro VPN Linux scripts which allow you to establish a connecti
 **For Linux beginners** we recommend using the "hma-openvpn.sh" script by simply running it by typing **sudo bash hma-openvpn.sh**
 
 **For advanced Linux users** we recommend the "hma-vpn.sh" script as it offers a variety of additional features for various purposes.
+
 --------------
 
