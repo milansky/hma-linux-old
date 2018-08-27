@@ -1,4 +1,4 @@
-# HMA! Pro VPN Linux connection script (Old)
+# HMA! Pro VPN Linux connection script
 --------------
 
 ## Basic overview
